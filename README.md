@@ -23,8 +23,8 @@ Save the data to the file
 
 ## CODE:
 
-NAME: sivakumar A
-REG NO: 212220043004
+NAME: sachin E A
+REG NO: 212221040139
 ```
 from sklearn.datasets import load_boston
 boston_data=load_boston()
